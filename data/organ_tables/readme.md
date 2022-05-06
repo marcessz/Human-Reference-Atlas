@@ -48,3 +48,7 @@ This folder contains the node and edge lists of the organs in a JSON format:
 
  
 ```
+
+
+The data tables of the organs have been downloaded from the website of the [Hubmap Consortium](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) using the [API](https://asctb-api.herokuapp.com/#/operations/csv-get), but they can also be accessed from the website of the [ASCT+B Reporter](https://hubmapconsortium.github.io/ccf-asct-reporter/).
+
