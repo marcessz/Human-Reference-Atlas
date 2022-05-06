@@ -23,13 +23,9 @@ This folder contains the node and edge lists of the organs in a JSON format:
        "id": 1,
        "type": "AS",
        "name": "brain",
-	.
-	.
-	.
+	. . .
 	}
-	.
-	.
-	.
+	. . .
    ],
    "edges": [
      {
@@ -44,9 +40,7 @@ This folder contains the node and edge lists of the organs in a JSON format:
        "source": 2,
        "target": 3
 	},
-	.
-	.
-	.
+	. . .
  
    ]
  }
