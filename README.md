@@ -1,4 +1,4 @@
-![butterfly](butterfly with hearts.jpg)
+![butterfly](./butterfly_with_hearts.jpg)
 
 # Human-Reference-Atlas
 
