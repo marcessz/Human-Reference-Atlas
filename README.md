@@ -1,3 +1,5 @@
+![butterfly](butterfly with hearts.jpg)
+
 # Human-Reference-Atlas
 
 The goal of the project is to visualize the hierarchical network of body parts (anatomical structures) and cell types. The network is a branching tree, in the center there is the “body” then the next layer is the organs (e.g., brain, liver, and heart) and then the next layer is the subparts of these organs, the next layer consists of the subparts of the subparts and so on. There are some female/male specific organs, so there would be two networks, one corresponding to the female body, and the other would be the male body. 
